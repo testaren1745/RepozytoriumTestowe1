@@ -8,7 +8,7 @@
 <body>
     <?php
     echo "drugi plik";
-    
+    echo "modyfikacja";
     
     ?>
 </body>
